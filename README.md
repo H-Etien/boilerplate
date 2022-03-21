@@ -4,4 +4,4 @@
 
 Boilerplate pour futur projet.
 
-Webpack, npm modulesn pug
+Webpack, npm modules, pug
