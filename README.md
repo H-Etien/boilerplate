@@ -1,5 +1,5 @@
-# boilerplate
+# Boilerplate
 
 ---
 
-Boilerplate pour futur projet
+Boilerplate pour futur projet.
